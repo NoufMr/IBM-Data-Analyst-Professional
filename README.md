@@ -12,3 +12,5 @@ candidate has completed all of the course modules.
 ## Course Outlines
 There are a total of 8 modules and one capstone project in the IBM Data Analyst Professional Certificate.
 - **[Introduction to Data Analytics](https://github.com/NoufMr/IBM-Data-Analyst-Professional/tree/main/Excel%20Basics%20for%20Data%20Analyst)**
+  
+This course presents you with a gentle introduction to Data Analysis, the role of a Data Analyst, and the tools used in this job. You will learn about the skills and responsibilities of a data analyst and hear from several data experts sharing their tips & advice to start a career. This course will help you to differentiate between the roles of Data Analysts, Data Scientists, and Data Engineers. 

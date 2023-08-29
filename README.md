@@ -9,3 +9,6 @@ It has over 8 course modules and 1 capstone project. The course modules cover to
 data visualization, Python programming, SQL, data mining, etc. from scratch. All of the modules 
 are beginner-friendly except the capstone project which is recommended to be attended after the 
 candidate has completed all of the course modules.
+## Course Outlines
+There are a total of 8 modules and one capstone project in the IBM Data Analyst Professional Certificate.
+- **[Introduction to Data Analytics](https://github.com/NoufMr/IBM-Data-Analyst-Professional/tree/main/Excel%20Basics%20for%20Data%20Analyst)**
